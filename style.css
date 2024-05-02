@@ -2,7 +2,7 @@ body{
     background-color:var(--cinza);
 }
 :root{
-    --fonte-titulo:´´bebas Neue´´,sans-serif;
+    --fonte-titulo:"Bebas Neue",sans-serif;
     --rosa:hotpink;
     --ouro:gold;
     --cinza:gray;
