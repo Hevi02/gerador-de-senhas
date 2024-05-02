@@ -83,7 +83,7 @@ parametro-titulo{
     padding:10px 
  }
 
-label{
+.label{
     font-size:25px;
     font-family:var(--font-titulo);
     font-size:25px;
