@@ -83,11 +83,13 @@ parametro-senha-titulo{
     padding:10px
     
  }
- {font-size:25px;
+ {
+    font-size:25px;
 font-family:var(--font-titulo);
 font-size:25px;
 color:var(--verde);
-}
+ }
+
 .checkbox{
     background-color: var(--azul-claro);
     height:20px;
@@ -99,3 +101,25 @@ color:var(--verde);
     width:100
 
 }
+.fraca {
+ width: 25%;
+ background-color: red;
+}
+.parametro-senha_texto {
+ display: flex;
+ justify-content: space-between;
+}
+.media {
+    background-color: yellow;
+    width: 50%;
+}
+.forte {
+    background-color: green;
+    width: 100%;
+}
+.forca {
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+}
+
